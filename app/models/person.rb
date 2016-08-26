@@ -48,4 +48,3 @@ if(input.length == 8 && !input.match(/^[0-9]+[0-9]$/).nil?)
 end
 end
 
-end
